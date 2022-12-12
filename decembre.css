@@ -1,0 +1,26 @@
+body {
+        background-color: black;
+
+}
+header {
+
+   color: snow;
+}
+
+a{
+
+    color:greenyellow;
+}
+
+a:hover {
+    background-color: chocolate;
+
+}
+
+.smilingDownOnMe {
+    display: block;
+    background-image: url("snowCandle.gif");
+    background-size: cover;
+    opacity: 10;
+}
+
